@@ -7,11 +7,6 @@
 - 🐥 Next JS/ React / React-Native / Node / DevOps / AWS 
 
 <h3 align="left">Languages and Tools:</h3>
-import Image from "next/image";
-
-export default function Home() {
-  return (
-    <>
       <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 20px; background-color: #f0f0f0; border-radius: 10px;">
         <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
           <img
