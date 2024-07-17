@@ -258,6 +258,4 @@ export default function Home() {
           />
         </a>
       </div>
-    </>
-  );
-}
+
